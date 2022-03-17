@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d7c936063b6ada793665211f9c9522a, type: 3}
+  m_Name: "Meteorite"
+  m_EditorClassIdentifier: 
+  type: 1
+  powerId: "Power.SingleMeteorite"
+  powerNameLocID: "Powerup.Meteorite"
+  powerIcon: {fileID: 21300000, guid: 75a5b9bc417f4d239ffea79ca8186327, type: 3}
+  target: 3
+  powerUp: {fileID: 1790744402615421598, guid: 12761ab838334950a78ffb18277e2586, type: 2}
+  tutorial: 9
+  fullTuto: 1
+  defaultShopDatas:
+    cost: 100
+    quantityPurchased: 1
+    quantityAtStart: 3
+    maximumQuantity: 100
+    levelRequiredToUnlock: 22
+    rvShopPuQuantity: 1
+  currentShopDatas:
+    cost: 100
+    quantityPurchased: 1
+    quantityAtStart: 3
+    maximumQuantity: 100
+    levelRequiredToUnlock: 22
+    rvShopPuQuantity: 1

@@ -1,0 +1,8 @@
+public enum BuildingType
+{
+	REGULAR,
+	DEFENSE,
+	ATTACK,
+	ATTACK_AND_DEFENSE,
+	GOLDEN
+}

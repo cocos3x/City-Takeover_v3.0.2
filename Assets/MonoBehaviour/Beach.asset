@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 47d13b970c4e2fe46ac2e7278b82c5b0, type: 3}
+  m_Name: "Beach"
+  m_EditorClassIdentifier: 
+  m_RegionInGame: 1
+  m_EnvironmentObjects: {fileID: 1790744400719595297, guid: e5e5dc33b43f41ec971d6dd7215ba0d0, type: 2}
+  m_RandomRot: 1
+  m_ScaleMultiplyBetween: {x: 0.8, y: 1.5}
+  m_ShaderColorValue: "_Color"
+  m_ColorIsland: {r: 0.7502609, g: 1, b: 0.495283, a: 1}
+  m_ShaderTextureValue: "_MainTex"
+  m_TextureIsland: {fileID: 2800000, guid: f2881c7b85484ba1b95c8b4bdca8fbd3, type: 3}
+  m_WaterMaterial: {fileID: 2100000, guid: e69e4f4db87c462c9d144925cff069db, type: 2}

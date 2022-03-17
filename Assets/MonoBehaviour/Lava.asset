@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 47d13b970c4e2fe46ac2e7278b82c5b0, type: 3}
+  m_Name: "Lava"
+  m_EditorClassIdentifier: 
+  m_RegionInGame: 3
+  m_EnvironmentObjects: {fileID: 1790744400719595285, guid: c815324d2f414e748b9b29611c4e21ce, type: 2}
+  m_RandomRot: 1
+  m_ScaleMultiplyBetween: {x: 1, y: 1.5}
+  m_ShaderColorValue: "_Color"
+  m_ColorIsland: {r: 0.9909948, g: 0.8160377, b: 1, a: 1}
+  m_ShaderTextureValue: "_MainTex"
+  m_TextureIsland: {fileID: 2800000, guid: cadcdd5faa6a4bada215024c04397eaf, type: 3}
+  m_WaterMaterial: {fileID: 2100000, guid: e07ba3bac6394438801badc86d4be99c, type: 2}

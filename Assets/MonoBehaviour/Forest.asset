@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 47d13b970c4e2fe46ac2e7278b82c5b0, type: 3}
+  m_Name: "Forest"
+  m_EditorClassIdentifier: 
+  m_RegionInGame: 0
+  m_EnvironmentObjects: {fileID: 1790744400719595354, guid: e1fbbae635ec4279820312322e1ea4b2, type: 2}
+  m_RandomRot: 1
+  m_ScaleMultiplyBetween: {x: 1.2, y: 2}
+  m_ShaderColorValue: "_Color"
+  m_ColorIsland: {r: 0.9725491, g: 0.8745099, b: 0.8117648, a: 1}
+  m_ShaderTextureValue: "_MainTex"
+  m_TextureIsland: {fileID: 2800000, guid: 3f01406c939348eeb88836a7279d881a, type: 3}
+  m_WaterMaterial: {fileID: 2100000, guid: 3d49d07200ea495c9439d3b95eb5b846, type: 2}

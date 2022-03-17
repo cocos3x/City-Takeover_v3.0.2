@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e1eb3636d9f74d4b4c13afec84f31fc9, type: 3}
+  m_Name: "LevelCohortCategory"
+  m_EditorClassIdentifier: 
+  controlLevelCategory: {fileID: 11400000, guid: 9e7652181412457fb52a3ac59d28e063, type: 2}
+  newProgressionLevelCategory: {fileID: 11400000, guid: a79df953f9f2478d8506c85348694412, type: 2}
+  newProgression2LevelCategory: {fileID: 11400000, guid: f9358777ba174830890a450ea47e9ad1, type: 2}
+  newLevels100: {fileID: 11400000, guid: 478f0f07f51d46cab42cb4b6bc9f29db, type: 2}
+  smallOnBoardingCategory: {fileID: 11400000, guid: c882200447b24f1fada570576fb0c5a1, type: 2}
+  longOnBoardingCategory: {fileID: 11400000, guid: a43e562d423149f18b91a553711d7bb8, type: 2}
+  multiplayerMorePlayerCategory: {fileID: 11400000, guid: a9bcb2285632456a857ff9ac4ace8c3a, type: 2}
+  smallOnBoardingAndNewProgressionLevelCategory: {fileID: 11400000, guid: b165e74716e14661b667450b2ec79353, type: 2}
+  smallOnBoardingAndNewProgression2LevelCategory: {fileID: 11400000, guid: 0fc28e481952496f9abba9be54c4f39b, type: 2}
+  longOnBoardingAndNewProgressionLevelCategory: {fileID: 11400000, guid: f7813eb08d694a9f840c9f5d24f58e3f, type: 2}
+  longOnBoardingAndNewProgression2LevelCategory: {fileID: 11400000, guid: 45648bb532c045118d3593c71cff62f5, type: 2}
+  new100LevelsCategory: {fileID: 11400000, guid: 4fe48c0f6ef741718f0f31db6a6cfe2f, type: 2}

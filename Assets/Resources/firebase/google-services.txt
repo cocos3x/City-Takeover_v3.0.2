@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "504201279138",
+    "firebase_url": "https://city-takeover-default-rtdb.firebaseio.com",
+    "project_id": "city-takeover",
+    "storage_bucket": "city-takeover.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:504201279138:android:9bf910f170e6f34c2d09fb",
+        "android_client_info": {
+          "package_name": "com.KaueRosa.CityTakeover"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "504201279138-oo47lu6p9oi0k8dntfqc12pcikdk6p52.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.KaueRosa.CityTakeover",
+            "certificate_hash": "9fd8127e75c6b71be2b3390eb4ef4b53a5aa2eb2"
+          }
+        },
+        {
+          "client_id": "504201279138-e55tskl4rnr6vd5pejfdoc12u0r06n7v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXoZDRK8kWNlq80f9O5G7JdLO0eeeb-SE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "504201279138-e55tskl4rnr6vd5pejfdoc12u0r06n7v.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "504201279138-e8mjr498m73vjtpdhtbo51b7vmtcrg32.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.KaueRosa.CityTakeover",
+                "app_store_id": "1538467877"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

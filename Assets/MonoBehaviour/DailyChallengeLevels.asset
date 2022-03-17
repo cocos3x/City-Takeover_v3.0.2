@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9c3744b29f7998e92c9f4a3211223cfe, type: 3}
+  m_Name: "DailyChallengeLevels"
+  m_EditorClassIdentifier: 
+  _onBoardingLevelCount: 0
+  _levelDatas:
+  - {fileID: 4900000, guid: fea64644b1fa42ada47784766c7fe022, type: 3}
+  - {fileID: 4900000, guid: 507574aab8c7499f8900fe44e27eb6a8, type: 3}
+  - {fileID: 4900000, guid: a327716fd976456e9c7a8a3b59511f92, type: 3}
+  - {fileID: 4900000, guid: 1ca15ae9dbf44bd9952ac6c296baf017, type: 3}
+  - {fileID: 4900000, guid: 398b9f31e34c4c9bb84053dd63da9d9f, type: 3}
+  - {fileID: 4900000, guid: 867ca37262344bd284500b6b10b4b4b3, type: 3}
+  - {fileID: 4900000, guid: 5aa4f535d1764d49b154f58c07c9cfc5, type: 3}
+  - {fileID: 4900000, guid: 64dfaac806bf430abf6c456a4f87a4f0, type: 3}
+  - {fileID: 4900000, guid: 4d219916ec02458cbef642dfc4476a33, type: 3}
+  - {fileID: 4900000, guid: 083d9d01d6404aa1be57b13022842ead, type: 3}
+  - {fileID: 4900000, guid: d9406467dcba4b17af8d6f8ae531d334, type: 3}
+  - {fileID: 4900000, guid: 65818bf96de54a408e4795a78bc9dd63, type: 3}
+  - {fileID: 4900000, guid: 6f88e05e6dbb491fb8530eebb6620b2e, type: 3}
+  - {fileID: 4900000, guid: 1d0908e0332d449f9337423260c613f5, type: 3}
+  - {fileID: 4900000, guid: 0a787b2216954670b91a15714825e404, type: 3}
+  _battleModeLevelDatas: []
+  debugLevel: {fileID: 4900000, guid: 77fc20d2abce44b58ccdfa3ab328986b, type: 3}

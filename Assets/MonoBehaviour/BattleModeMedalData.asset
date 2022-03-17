@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 76ec6c222bafcdcc00357b21517aee46, type: 3}
+  m_Name: "BattleModeMedalData"
+  m_EditorClassIdentifier: 
+  bronzeMedal: {fileID: 21300000, guid: 150df4e8fc50425993b8276a39da0ead, type: 3}
+  silverMedal: {fileID: 21300000, guid: 9b532c25820c481e9cc19ccc6c618ee6, type: 3}
+  goldMedal: {fileID: 21300000, guid: ebfe48cdb4204cfa997ddf45fb737047, type: 3}

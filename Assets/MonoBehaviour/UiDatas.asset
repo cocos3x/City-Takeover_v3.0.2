@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e7ce198c6444390ffa996382f05caaed, type: 3}
+  m_Name: "UiDatas"
+  m_EditorClassIdentifier: 
+  m_Screens:
+  - _UiScreensDefault: {fileID: 1790744402615429123, guid: b6219c19b39840809fb9b619e11646c1, type: 2}
+    _Variants: []
+  - _UiScreensDefault: {fileID: 1790744402615429207, guid: 52abb46024474d62984a595026eb4436, type: 2}
+    _Variants: []
+  - _UiScreensDefault: {fileID: 1790744402615428867, guid: b045934db41a44d19907bb1fa82fddae, type: 2}
+    _Variants: []
+  - _UiScreensDefault: {fileID: 1790744402615429677, guid: 06d9c95b08ec4da1a320a04919f3a842, type: 2}
+    _Variants:
+    - _AbVarName: "mapProgression"
+      _VariantScreen: {fileID: 1790744402615429676, guid: b18be0e57a5e4214a091091bae83e0b7, type: 2}
+  - _UiScreensDefault: {fileID: 1790744402615428967, guid: 05620107ca3248f99020112a3a4ddf96, type: 2}
+    _Variants: []
+  - _UiScreensDefault: {fileID: 1790744402615428312, guid: fd46775d44d548a1ac56d5eac3cb65c8, type: 2}
+    _Variants: []
+  - _UiScreensDefault: {fileID: 1790744402615429455, guid: 5c0ebb34c7b24883bd79351e94bf2caa, type: 2}
+    _Variants: []
+  - _UiScreensDefault: {fileID: 1790744402615429686, guid: db846fd33e1b42808ebe6c2165025443, type: 2}
+    _Variants: []
+  - _UiScreensDefault: {fileID: 1790744402615428193, guid: 916db22ac0d549ab8a6bd446b6a74520, type: 2}
+    _Variants:
+    - _AbVarName: "mapProgression"
+      _VariantScreen: {fileID: 1790744402615428194, guid: 299af2fca34e4473ad537e80683c24ca, type: 2}
+  - _UiScreensDefault: {fileID: 1790744402615428798, guid: 3ca990e422cc4ddc90b7e4b048c1c679, type: 2}
+    _Variants: []
+  - _UiScreensDefault: {fileID: 1790744402615428436, guid: 52cd5357dd654ed888734e7c7707d8e5, type: 2}
+    _Variants:
+    - _AbVarName: "mapProgression"
+      _VariantScreen: {fileID: 1790744402615428437, guid: a43a7a6e0ddf46e7a40394d1bf3ea82d, type: 2}
+  - _UiScreensDefault: {fileID: 1790744402615429328, guid: 5b1a23360dbb4fa0b8944ecda076e425, type: 2}
+    _Variants: []
+  - _UiScreensDefault: {fileID: 1790744402615428882, guid: 91c6a4de1c204615aaec14614b6002d0, type: 2}
+    _Variants: []
+  - _UiScreensDefault: {fileID: 1790744402615429128, guid: 26795362572e41cfa0faa5e55e7bbeec, type: 2}
+    _Variants: []
+  - _UiScreensDefault: {fileID: 1790744402615428628, guid: b24f826b822a414d8ba326f43b70896e, type: 2}
+    _Variants: []
+  - _UiScreensDefault: {fileID: 1790744402615429977, guid: 25176ca88fbc4bbeb3bf3ff9eb07b6fe, type: 2}
+    _Variants: []
+  - _UiScreensDefault: {fileID: 1790744402615428911, guid: 64f2f0c862c246ea9ca80149a2a8f203, type: 2}
+    _Variants: []
+  - _UiScreensDefault: {fileID: 1790744402615428588, guid: 67e8e794377c4fa0befe3603205d209d, type: 2}
+    _Variants: []
+  - _UiScreensDefault: {fileID: 1790744402615429623, guid: 38e8b6a7a4334dc1b875275ca5fe1a1d, type: 2}
+    _Variants: []
+  - _UiScreensDefault: {fileID: 1790744402615429341, guid: 76fac13c30c3469eb72b4b062ad2d393, type: 2}
+    _Variants: []

@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ed8fc3e03323f6d35da7e86c7960a223, type: 3}
+  m_Name: "FlagPool"
+  m_EditorClassIdentifier: 
+  _flags:
+  - {fileID: 21300000, guid: 300a3bd3e8a747ad858f03e81ed6e617, type: 3}
+  - {fileID: 21300000, guid: eb3a97cf0c31413b8f3317e2ac9c4f24, type: 3}
+  - {fileID: 21300000, guid: f0c48abf98a94098ae2f3aa3bd1b1b41, type: 3}
+  - {fileID: 21300000, guid: 34e7c88d922c4138b446799ea5e83a59, type: 3}
+  - {fileID: 21300000, guid: 5dd291fa157648f39de3748caad9dffe, type: 3}
+  - {fileID: 21300000, guid: f5a389a0df4e4e309ec0718647ecacb6, type: 3}
+  - {fileID: 21300000, guid: 9cac88cbefe041d59f29d9376768ed3e, type: 3}
+  - {fileID: 21300000, guid: 9930e0f17b0d479d83f3595a5feffe31, type: 3}
+  - {fileID: 21300000, guid: 80dfb5c373b7439bb73f3af7e03dafe4, type: 3}
+  - {fileID: 21300000, guid: b067e3c502fe417b812a5ddc3801385e, type: 3}

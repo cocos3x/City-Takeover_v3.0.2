@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 699a147e3987a4b20fd4d80ec46c306b, type: 3}
+  m_Name: "Remote Config Settings"
+  m_EditorClassIdentifier: 
+  RemoteConfigSettings:
+    coinsOnLevels: 0
+    crownCollection: 0
+    mapProgression: 0
+    OnboardingButtonPopup: 0
+    OnboardingSmall: 0
+    prolongedWin: 0
+    newProgressionLevels: 0
+    newProgressionLevels2: 0
+    newLevels100: 0
+    puShopFeedback: 0
+    fakeMultiplayer: 0
+    StoryMode: 0
+    dailyChallenge: 0
+    dailyChallengeHearts: 3
+    dailyChallengeAllowFreezeRv: 0
+    deactivateDepthInGamePlay: 0

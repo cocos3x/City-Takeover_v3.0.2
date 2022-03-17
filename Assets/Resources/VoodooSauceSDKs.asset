@@ -1,0 +1,746 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c183490ac8c54657946f08e141541478, type: 3}
+  m_Name: "VoodooSauceSDKs"
+  m_EditorClassIdentifier: 
+  SDKs:
+    vsVersion: "5.1.3"
+    lastUpdateDate: "10-11-2021 12:01:07"
+    ads:
+    - name: "MaxAds"
+      icon: "Resources\x2fMaxAds.png"
+      versions:
+        unity: "4.3.1"
+        ios: "10.3.2"
+        android: "10.3.1"
+      adNetworks:
+      - name: "AdColony"
+        icon: "Resources\x2fAdColony.png"
+        ios:
+          version: "4.6.0.0"
+          certified: 1
+          adapter:
+            version: "4.6.0.0.0"
+            banner:
+              className: 
+              customData: 
+            interstitial:
+              className: 
+              customData: 
+            rewardedVideo:
+              className: 
+              customData: 
+        android:
+          version: "4.5.0"
+          certified: 1
+          adapter:
+            version: "4.5.0.0"
+            banner:
+              className: 
+              customData: 
+            interstitial:
+              className: 
+              customData: 
+            rewardedVideo:
+              className: 
+              customData: 
+      - name: "ByteDance"
+        icon: "Resources\x2fByteDance.png"
+        ios:
+          version: "3.5.1.0"
+          certified: 1
+          adapter:
+            version: "3.5.1.0.0"
+            banner:
+              className: 
+              customData: 
+            interstitial:
+              className: 
+              customData: 
+            rewardedVideo:
+              className: 
+              customData: 
+        android:
+          version: "3.6.0.4"
+          certified: 1
+          adapter:
+            version: "3.6.0.4.0"
+            banner:
+              className: 
+              customData: 
+            interstitial:
+              className: 
+              customData: 
+            rewardedVideo:
+              className: 
+              customData: 
+      - name: "Chartboost"
+        icon: "Resources\x2fChartboost.png"
+        ios:
+          version: "8.4.2"
+          certified: 1
+          adapter:
+            version: "8.4.2.0"
+            banner:
+              className: 
+              customData: 
+            interstitial:
+              className: 
+              customData: 
+            rewardedVideo:
+              className: 
+              customData: 
+        android:
+          version: "8.2.1"
+          certified: 1
+          adapter:
+            version: "8.2.1.0"
+            banner:
+              className: 
+              customData: 
+            interstitial:
+              className: 
+              customData: 
+            rewardedVideo:
+              className: 
+              customData: 
+      - name: "Facebook"
+        icon: "Resources\x2fFacebook.png"
+        ios:
+          version: "6.5.0"
+          certified: 1
+          adapter:
+            version: "6.5.0.0"
+            banner:
+              className: 
+              customData: 
+            interstitial:
+              className: 
+              customData: 
+            rewardedVideo:
+              className: 
+              customData: 
+        android:
+          version: "6.5.0"
+          certified: 1
+          adapter:
+            version: "6.5.0.0"
+            banner:
+              className: 
+              customData: 
+            interstitial:
+              className: 
+              customData: 
+            rewardedVideo:
+              className: 
+              customData: 
+      - name: "Fyber"
+        icon: "Resources\x2fFyber.png"
+        ios:
+          version: "7.8.3"
+          certified: 1
+          adapter:
+            version: "7.8.3.2"
+            banner:
+              className: 
+              customData: 
+            interstitial:
+              className: 
+              customData: 
+            rewardedVideo:
+              className: 
+              customData: 
+        android:
+          version: "7.8.3"
+          certified: 1
+          adapter:
+            version: "7.8.3.0"
+            banner:
+              className: 
+              customData: 
+            interstitial:
+              className: 
+              customData: 
+            rewardedVideo:
+              className: 
+              customData: 
+      - name: "Google"
+        icon: "Resources\x2fGoogle.png"
+        ios:
+          version: "8.6.0"
+          certified: 1
+          adapter:
+            version: "8.6.0.1"
+            banner:
+              className: 
+              customData: 
+            interstitial:
+              className: 
+              customData: 
+            rewardedVideo:
+              className: 
+              customData: 
+        android:
+          version: "20.2.0"
+          certified: 1
+          adapter:
+            version: "20.2.0.1"
+            banner:
+              className: 
+              customData: 
+            interstitial:
+              className: 
+              customData: 
+            rewardedVideo:
+              className: 
+              customData: 
+      - name: "GoogleAdManager"
+        icon: "Resources\x2fGoogleAdManager.png"
+        ios:
+          version: "8.6.0"
+          certified: 1
+          adapter:
+            version: "8.6.0.1"
+            banner:
+              className: 
+              customData: 
+            interstitial:
+              className: 
+              customData: 
+            rewardedVideo:
+              className: 
+              customData: 
+        android:
+          version: "20.2.0"
+          certified: 1
+          adapter:
+            version: "20.2.0.1"
+            banner:
+              className: 
+              customData: 
+            interstitial:
+              className: 
+              customData: 
+            rewardedVideo:
+              className: 
+              customData: 
+      - name: "InMobi"
+        icon: "Resources\x2fInMobi.png"
+        ios:
+          version: "9.1.7"
+          certified: 1
+          adapter:
+            version: "9.1.7.0"
+            banner:
+              className: 
+              customData: 
+            interstitial:
+              className: 
+              customData: 
+            rewardedVideo:
+              className: 
+              customData: 
+        android:
+          version: "9.9.9"
+          certified: 1
+          adapter:
+            version: "9.9.9.4"
+            banner:
+              className: 
+              customData: 
+            interstitial:
+              className: 
+              customData: 
+            rewardedVideo:
+              className: 
+              customData: 
+      - name: "IronSource"
+        icon: "Resources\x2fIronSource.png"
+        ios:
+          version: "7.1.6.1"
+          certified: 1
+          adapter:
+            version: "7.1.6.1.0"
+            banner:
+              className: 
+              customData: 
+            interstitial:
+              className: 
+              customData: 
+            rewardedVideo:
+              className: 
+              customData: 
+        android:
+          version: "7.1.5.1"
+          certified: 1
+          adapter:
+            version: "7.1.5.1.2"
+            banner:
+              className: 
+              customData: 
+            interstitial:
+              className: 
+              customData: 
+            rewardedVideo:
+              className: 
+              customData: 
+      - name: "Line"
+        icon: "Resources\x2fLine.png"
+        ios:
+          version: "2.3.20210326"
+          certified: 1
+          adapter:
+            version: "2.3.20210326.0"
+            banner:
+              className: 
+              customData: 
+            interstitial:
+              className: 
+              customData: 
+            rewardedVideo:
+              className: 
+              customData: 
+        android:
+          version: "2021.5.11"
+          certified: 1
+          adapter:
+            version: "2021.5.11.1"
+            banner:
+              className: 
+              customData: 
+            interstitial:
+              className: 
+              customData: 
+            rewardedVideo:
+              className: 
+              customData: 
+      - name: "Maio"
+        icon: "Resources\x2fMaio.png"
+        ios:
+          version: "1.5.7"
+          certified: 1
+          adapter:
+            version: "1.5.7.1"
+            banner:
+              className: 
+              customData: 
+            interstitial:
+              className: 
+              customData: 
+            rewardedVideo:
+              className: 
+              customData: 
+        android:
+          version: "1.1.15"
+          certified: 1
+          adapter:
+            version: "1.1.15.0"
+            banner:
+              className: 
+              customData: 
+            interstitial:
+              className: 
+              customData: 
+            rewardedVideo:
+              className: 
+              customData: 
+      - name: "Mintegral"
+        icon: "Resources\x2fMintegral.png"
+        ios:
+          version: "6.9.1.0"
+          certified: 1
+          adapter:
+            version: "6.9.1.0.0"
+            banner:
+              className: 
+              customData: 
+            interstitial:
+              className: 
+              customData: 
+            rewardedVideo:
+              className: 
+              customData: 
+        android:
+          version: "15.5.41"
+          certified: 1
+          adapter:
+            version: "15.5.41.0"
+            banner:
+              className: 
+              customData: 
+            interstitial:
+              className: 
+              customData: 
+            rewardedVideo:
+              className: 
+              customData: 
+      - name: "MyTarget"
+        icon: "Resources\x2fMyTarget.png"
+        ios:
+          version: "5.11.1"
+          certified: 1
+          adapter:
+            version: "5.11.1.0"
+            banner:
+              className: 
+              customData: 
+            interstitial:
+              className: 
+              customData: 
+            rewardedVideo:
+              className: 
+              customData: 
+        android:
+          version: "5.11.12"
+          certified: 1
+          adapter:
+            version: "5.11.12.1"
+            banner:
+              className: 
+              customData: 
+            interstitial:
+              className: 
+              customData: 
+            rewardedVideo:
+              className: 
+              customData: 
+      - name: "Nend"
+        icon: "Resources\x2fNend.png"
+        ios:
+          version: "7.0.5"
+          certified: 1
+          adapter:
+            version: "7.0.5.0"
+            banner:
+              className: 
+              customData: 
+            interstitial:
+              className: 
+              customData: 
+            rewardedVideo:
+              className: 
+              customData: 
+        android:
+          version: "6.0.1"
+          certified: 1
+          adapter:
+            version: "6.0.1.2"
+            banner:
+              className: 
+              customData: 
+            interstitial:
+              className: 
+              customData: 
+            rewardedVideo:
+              className: 
+              customData: 
+      - name: "OguryPresage"
+        icon: "Resources\x2fOguryPresage.png"
+        ios:
+          version: "2.3.5"
+          certified: 1
+          adapter:
+            version: "2.3.5.1"
+            banner:
+              className: 
+              customData: 
+            interstitial:
+              className: 
+              customData: 
+            rewardedVideo:
+              className: 
+              customData: 
+        android:
+          version: "5.0.9"
+          certified: 1
+          adapter:
+            version: "5.0.9.1"
+            banner:
+              className: 
+              customData: 
+            interstitial:
+              className: 
+              customData: 
+            rewardedVideo:
+              className: 
+              customData: 
+      - name: "Smaato"
+        icon: "Resources\x2fSmaato.png"
+        ios:
+          version: "21.6.14"
+          certified: 1
+          adapter:
+            version: "21.6.14.0"
+            banner:
+              className: 
+              customData: 
+            interstitial:
+              className: 
+              customData: 
+            rewardedVideo:
+              className: 
+              customData: 
+        android:
+          version: "21.6.0"
+          certified: 1
+          adapter:
+            version: "21.6.0.0"
+            banner:
+              className: 
+              customData: 
+            interstitial:
+              className: 
+              customData: 
+            rewardedVideo:
+              className: 
+              customData: 
+      - name: "Snap"
+        icon: "Resources\x2fSnap.png"
+        ios:
+          version: "1.0.7"
+          certified: 1
+          adapter:
+            version: "1.0.7.3"
+            banner:
+              className: 
+              customData: 
+            interstitial:
+              className: 
+              customData: 
+            rewardedVideo:
+              className: 
+              customData: 
+        android:
+          version: "1.1.0.0"
+          certified: 1
+          adapter:
+            version: "1.1.0.0.1"
+            banner:
+              className: 
+              customData: 
+            interstitial:
+              className: 
+              customData: 
+            rewardedVideo:
+              className: 
+              customData: 
+      - name: "Tapjoy"
+        icon: "Resources\x2fTapjoy.png"
+        ios:
+          version: "12.8.1"
+          certified: 1
+          adapter:
+            version: "12.8.1.0"
+            banner:
+              className: 
+              customData: 
+            interstitial:
+              className: 
+              customData: 
+            rewardedVideo:
+              className: 
+              customData: 
+        android:
+          version: "12.8.1"
+          certified: 1
+          adapter:
+            version: "12.8.1.0"
+            banner:
+              className: 
+              customData: 
+            interstitial:
+              className: 
+              customData: 
+            rewardedVideo:
+              className: 
+              customData: 
+      - name: "TencentGDT"
+        icon: "Resources\x2fTencentGDT.png"
+        ios:
+          version: "4.12.4"
+          certified: 1
+          adapter:
+            version: "4.12.4.2"
+            banner:
+              className: 
+              customData: 
+            interstitial:
+              className: 
+              customData: 
+            rewardedVideo:
+              className: 
+              customData: 
+        android:
+          version: 
+          certified: 0
+          adapter:
+            version: 
+            banner:
+              className: 
+              customData: 
+            interstitial:
+              className: 
+              customData: 
+            rewardedVideo:
+              className: 
+              customData: 
+      - name: "UnityAds"
+        icon: "Resources\x2fUnityAds.png"
+        ios:
+          version: "3.7.2"
+          certified: 1
+          adapter:
+            version: "3.7.2.0"
+            banner:
+              className: 
+              customData: 
+            interstitial:
+              className: 
+              customData: 
+            rewardedVideo:
+              className: 
+              customData: 
+        android:
+          version: "3.7.2"
+          certified: 1
+          adapter:
+            version: "3.7.2.0"
+            banner:
+              className: 
+              customData: 
+            interstitial:
+              className: 
+              customData: 
+            rewardedVideo:
+              className: 
+              customData: 
+      - name: "VerizonAds"
+        icon: "Resources\x2fVerizonAds.png"
+        ios:
+          version: "1.9.1"
+          certified: 1
+          adapter:
+            version: "1.9.1.0"
+            banner:
+              className: 
+              customData: 
+            interstitial:
+              className: 
+              customData: 
+            rewardedVideo:
+              className: 
+              customData: 
+        android:
+          version: 
+          certified: 0
+          adapter:
+            version: 
+            banner:
+              className: 
+              customData: 
+            interstitial:
+              className: 
+              customData: 
+            rewardedVideo:
+              className: 
+              customData: 
+      - name: "Vungle"
+        icon: "Resources\x2fVungle.png"
+        ios:
+          version: "6.9.2"
+          certified: 1
+          adapter:
+            version: "6.9.2.1"
+            banner:
+              className: 
+              customData: 
+            interstitial:
+              className: 
+              customData: 
+            rewardedVideo:
+              className: 
+              customData: 
+        android:
+          version: "6.9.1"
+          certified: 1
+          adapter:
+            version: "6.9.1.0"
+            banner:
+              className: 
+              customData: 
+            interstitial:
+              className: 
+              customData: 
+            rewardedVideo:
+              className: 
+              customData: 
+      - name: "Yandex"
+        icon: "Resources\x2fYandex.png"
+        ios:
+          version: "2.20.0"
+          certified: 1
+          adapter:
+            version: "2.20.0.1"
+            banner:
+              className: 
+              customData: 
+            interstitial:
+              className: 
+              customData: 
+            rewardedVideo:
+              className: 
+              customData: 
+        android:
+          version: "4.1.0"
+          certified: 1
+          adapter:
+            version: "4.1.0.0"
+            banner:
+              className: 
+              customData: 
+            interstitial:
+              className: 
+              customData: 
+            rewardedVideo:
+              className: 
+              customData: 
+    analytics:
+    - name: "Adjust"
+      icon: "Resources\x2fAdjust.png"
+      versions:
+        unity: "4.28.0"
+        ios: "4.27.0"
+        android: "4.28.0"
+    - name: "Firebase Analytics"
+      icon: "Resources\x2fFirebaseAnalytics.png"
+      versions:
+        unity: "7.0.2"
+        ios: "7.0.0"
+        android: "18.0.0"
+    - name: "Mixpanel"
+      icon: "Resources\x2fMixpanel.png"
+      versions:
+        unity: "2.2.2"
+        ios: 
+        android: 
+    - name: "GameAnalytics"
+      icon: "Resources\x2fGameAnalytics.png"
+      versions:
+        unity: "6.3.10"
+        ios: 
+        android: 
+    crashlytics:
+    - name: "Firebase Crashlytics"
+      icon: "Resources\x2fFirebaseCrashlytics.png"
+      versions:
+        unity: "7.0.2"
+        ios: "7.0.0"
+        android: "17.2.2"
